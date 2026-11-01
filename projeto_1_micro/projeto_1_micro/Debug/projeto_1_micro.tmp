@@ -1,0 +1,64 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\Debug\projeto_1_micro.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>projeto_1_micro.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>projeto_1_micro.map</FILE>
+  <FILE>projeto_1_micro.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BUFFER_TX><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>53</LINE></BUFFER_TX>
+  <RESET><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>64</LINE></RESET>
+  <TIMER1_COMPA_ISR><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>132</LINE></TIMER1_COMPA_ISR>
+  <USART_UDRE_ISR><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>170</LINE></USART_UDRE_ISR>
+  <CARREGA_ESTADO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>200</LINE></CARREGA_ESTADO>
+  <MONTA_MENSAGEM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>276</LINE></MONTA_MENSAGEM>
+  <LOOP_PRINCIPAL><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>129</LINE></LOOP_PRINCIPAL>
+  <MULTIPLEXA><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>249</LINE></MULTIPLEXA>
+  <FINALIZA_ISR><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>193</LINE></FINALIZA_ISR>
+  <MUDANCA_ESTADO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>157</LINE></MUDANCA_ESTADO>
+  <ATUALIZA_VALOR_DISPLAY><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>231</LINE></ATUALIZA_VALOR_DISPLAY>
+  <FINALIZA_MUDANCA><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>164</LINE></FINALIZA_MUDANCA>
+  <USART_UDRE_FIM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>187</LINE></USART_UDRE_FIM>
+  <TABELA_ESTADOS><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>426</LINE></TABELA_ESTADOS>
+  <CONVERTE_DEZENAS><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>239</LINE></CONVERTE_DEZENAS>
+  <FIM_CONVERSAO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>245</LINE></FIM_CONVERSAO>
+  <MOSTRA_UNIDADE><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>267</LINE></MOSTRA_UNIDADE>
+  <MOSTRA_DEZENA><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>261</LINE></MOSTRA_DEZENA>
+  <ESCREVE><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>272</LINE></ESCREVE>
+  <TXT_ESTADO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>443</LINE></TXT_ESTADO>
+  <COPIA_TEXTO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>413</LINE></COPIA_TEXTO>
+  <ESCREVE_NUMERO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>394</LINE></ESCREVE_NUMERO>
+  <TXT_S0><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>444</LINE></TXT_S0>
+  <ESCREVE_COR><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>371</LINE></ESCREVE_COR>
+  <TXT_S1><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>445</LINE></TXT_S1>
+  <TXT_S2><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>446</LINE></TXT_S2>
+  <TXT_S3><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>447</LINE></TXT_S3>
+  <TXT_S4><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>448</LINE></TXT_S4>
+  <TXT_DUR_INI><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>449</LINE></TXT_DUR_INI>
+  <TXT_DUR_FIM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>450</LINE></TXT_DUR_FIM>
+  <TXT_VERMELHO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>451</LINE></TXT_VERMELHO>
+  <ESCREVE_COR_FIM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>390</LINE></ESCREVE_COR_FIM>
+  <TXT_AMARELO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>452</LINE></TXT_AMARELO>
+  <TXT_VERDE><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>453</LINE></TXT_VERDE>
+  <TXT_APAGADO><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>454</LINE></TXT_APAGADO>
+  <ESCREVE_NUMERO_DEZENAS><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>400</LINE></ESCREVE_NUMERO_DEZENAS>
+  <ESCREVE_NUMERO_FIM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>406</LINE></ESCREVE_NUMERO_FIM>
+  <COPIA_TEXTO_FIM><FILE>C:\Users\thomruby\Documents\Atmel Studio\7.0\projeto_1_micro\projeto_1_micro\main.asm</FILE><LINE>423</LINE></COPIA_TEXTO_FIM>
+ </LABELS>
+</ASSEMBLER_INFO>
